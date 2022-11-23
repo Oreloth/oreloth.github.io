@@ -25,6 +25,14 @@ h4 {
     color: rgba(232, 230, 227, 0.87);
 }
 
+.ui.table thead th {
+    background-image: initial;
+    background-color: rgb(27, 29, 30);
+    color: rgba(232, 230, 227, 0.87);
+    border-bottom-color: rgba(128, 119, 105, 0.1);
+    border-left-color: initial;
+}
+
 a {
     text-decoration: none;
 }
