@@ -25,6 +25,11 @@ h4 {
     color: rgba(232, 230, 227, 0.87);
 }
 
+.ui.table td {
+    padding: 0.78571429em;
+    text-align: inherit;
+}
+
 .ui.table thead th {
     background-image: initial;
     background-color: rgb(27, 29, 30);
