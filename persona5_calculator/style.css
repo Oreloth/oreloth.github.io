@@ -25,6 +25,11 @@ h4 {
   color: rgba(232, 230, 227, 0.87) !important;
 }
 
+.ui.sortable.table thead th {
+    border-left-color: rgba(128, 119, 105, 0.15);
+    color: rgba(232, 230, 227, 0.87);
+}
+
 a {
     text-decoration: none;
 }
