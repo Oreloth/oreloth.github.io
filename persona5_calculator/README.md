@@ -5,7 +5,7 @@
 
 A tool to help calculate fusions in Persona 5.
 
-Link: https://chinhodado.github.io/persona5_calculator/
+Link: https://oreloth.github.io/persona5_calculator/
 
 Also included are information about a persona's stats, elementals and skills.
 
