@@ -134,11 +134,11 @@ tr:hover td:last-child {
     font-weight: bold;
 }
 
-.wk, .Weak { color: #db2828 !important; }
-.rs, .Resist { color: #2185d0 !important; }
-.nu, .Null { color: #b0b0b0 !important; }
-.rp, .Repel { color: #fbbd08 !important; }
-.ab, .Absorb { color: #21ba45 !important; }
+.wk, .Weak { color: rgb(222, 61, 61) !important; }
+.rs, .Resist { color: rgb(86, 168, 228) !important; }
+.nu, .Null { color: rgb(182, 176, 166) !important; }
+.rp, .Repel { color: rgb(251, 195, 32) !important; }
+.ab, .Absorb { color: rgb(81, 224, 115) !important; }
 
 .left-border {
     border-left: 1px solid rgba(34,36,38,.1) !important;
