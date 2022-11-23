@@ -1,12 +1,28 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin);
 
+
+
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     text-align: center;
     margin-top: 0;
     margin-right: 0;
-    background-color: #444;
+    background-image: initial;
+    background-color: rgb(24, 26, 27);
+    color: rgba(232, 230, 227, 0.87);
+}
+
+h4 {
+  background-color:#562f00;
+}
+
+.ui.table {
+  background-image: initial;
+  background-color: rgb(24, 26, 27);
+  border-color: rgba(128, 119, 105, 0.15);
+  box-shadow: none;
+  color: rgba(232, 230, 227, 0.87);
 }
 
 a {
