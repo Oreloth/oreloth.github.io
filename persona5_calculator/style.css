@@ -18,11 +18,17 @@ h4 {
 }
 
 .ui.table {
-    background-image: initial;
+    width: 100%;
+    margin: 1em 0;
+    border: 1px solid rgba(34,36,38,.15);
     background-color: rgb(24, 26, 27);
     border-color: rgba(128, 119, 105, 0.15);
     box-shadow: none;
     color: rgba(232, 230, 227, 0.87);
+    border-radius: 0.28571429rem;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 0;
 }
 
 .ui.table td {
@@ -142,6 +148,7 @@ tr:hover td:last-child {
 
 .left-border {
     border-left: 1px solid rgba(34,36,38,.1) !important;
+    border-left-color: rgba(128, 119, 105, 0.1) !important;
 }
 
 @media only screen and (max-width: 768px) {
