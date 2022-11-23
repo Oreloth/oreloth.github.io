@@ -17,16 +17,12 @@ h4 {
   background-color:#562f00 !important;
 }
 
-.wk, .Weak {
-    color: rgb(222, 61, 61) !important;
-}
-
-.rs, .Resist {
-    color: rgb(86, 168, 228) !important;
-}
-
-.ab, .Absorb {
-    color: rgb(81, 224, 115) !important;
+.ui.table {
+    background-image: initial;
+    background-color: rgb(24, 26, 27);
+    border-color: rgba(128, 119, 105, 0.15);
+    box-shadow: none;
+    color: rgba(232, 230, 227, 0.87);
 }
 
 a {
